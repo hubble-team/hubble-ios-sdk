@@ -1,0 +1,6 @@
+framework module Hubble {
+  umbrella header "Hubble.h"
+  export *
+
+  module * { export * }
+}
