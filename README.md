@@ -76,7 +76,7 @@ For debugging purposes, you can manually trigger an in-product survey using the 
 HubbleConnect.shared.showSurvey(withID: "<survey-id>")
 ```
 
-Use the survey ID from the specific URL provided: https://app.hubble.team/surveys/<survey-id>.
+Use the survey ID from the specific URL provided: (e.g. `https://app.hubble.team/surveys/<survey-id>`)
 
 ## License
 
