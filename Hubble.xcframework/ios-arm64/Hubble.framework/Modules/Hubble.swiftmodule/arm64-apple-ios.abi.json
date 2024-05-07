@@ -8850,98 +8850,70 @@
     {
       "filePath": "\/Users\/soojin\/hubble\/ios-sdk-internal\/Hubble\/Domain\/Entity\/Survey.swift",
       "kind": "StringLiteral",
-      "offset": 5123,
+      "offset": 5297,
       "length": 22,
       "value": "\"@frequency\/recurring\""
     },
     {
       "filePath": "\/Users\/soojin\/hubble\/ios-sdk-internal\/Hubble\/Domain\/Entity\/Survey.swift",
       "kind": "StringLiteral",
-      "offset": 5160,
+      "offset": 5334,
       "length": 17,
       "value": "\"@frequency\/once\""
     },
     {
       "filePath": "\/Users\/soojin\/hubble\/ios-sdk-internal\/Hubble\/Domain\/Entity\/Survey.swift",
       "kind": "StringLiteral",
-      "offset": 5193,
+      "offset": 5367,
       "length": 18,
       "value": "\"@frequency\/every\""
     },
     {
       "filePath": "\/Users\/soojin\/hubble\/ios-sdk-internal\/Hubble\/Domain\/Entity\/Survey.swift",
       "kind": "StringLiteral",
-      "offset": 5123,
+      "offset": 5297,
       "length": 22,
       "value": "\"@frequency\/recurring\""
     },
     {
       "filePath": "\/Users\/soojin\/hubble\/ios-sdk-internal\/Hubble\/Domain\/Entity\/Survey.swift",
       "kind": "StringLiteral",
-      "offset": 5160,
+      "offset": 5334,
       "length": 17,
       "value": "\"@frequency\/once\""
     },
     {
       "filePath": "\/Users\/soojin\/hubble\/ios-sdk-internal\/Hubble\/Domain\/Entity\/Survey.swift",
       "kind": "StringLiteral",
-      "offset": 5193,
+      "offset": 5367,
       "length": 18,
       "value": "\"@frequency\/every\""
     },
     {
       "filePath": "\/Users\/soojin\/hubble\/ios-sdk-internal\/Hubble\/Domain\/Entity\/Survey.swift",
       "kind": "StringLiteral",
-      "offset": 5366,
-      "length": 16,
-      "value": "\"@trigger\/event\""
-    },
-    {
-      "filePath": "\/Users\/soojin\/hubble\/ios-sdk-internal\/Hubble\/Domain\/Entity\/Survey.swift",
-      "kind": "StringLiteral",
-      "offset": 5399,
-      "length": 14,
-      "value": "\"@trigger\/url\""
-    },
-    {
-      "filePath": "\/Users\/soojin\/hubble\/ios-sdk-internal\/Hubble\/Domain\/Entity\/Survey.swift",
-      "kind": "StringLiteral",
-      "offset": 5366,
-      "length": 16,
-      "value": "\"@trigger\/event\""
-    },
-    {
-      "filePath": "\/Users\/soojin\/hubble\/ios-sdk-internal\/Hubble\/Domain\/Entity\/Survey.swift",
-      "kind": "StringLiteral",
-      "offset": 5399,
-      "length": 14,
-      "value": "\"@trigger\/url\""
-    },
-    {
-      "filePath": "\/Users\/soojin\/hubble\/ios-sdk-internal\/Hubble\/Domain\/Entity\/Survey.swift",
-      "kind": "StringLiteral",
-      "offset": 5691,
+      "offset": 5874,
       "length": 12,
       "value": "\"background\""
     },
     {
       "filePath": "\/Users\/soojin\/hubble\/ios-sdk-internal\/Hubble\/Domain\/Entity\/Survey.swift",
       "kind": "StringLiteral",
-      "offset": 5722,
+      "offset": 5905,
       "length": 7,
       "value": "\"color\""
     },
     {
       "filePath": "\/Users\/soojin\/hubble\/ios-sdk-internal\/Hubble\/Domain\/Entity\/Survey.swift",
       "kind": "StringLiteral",
-      "offset": 5691,
+      "offset": 5874,
       "length": 12,
       "value": "\"background\""
     },
     {
       "filePath": "\/Users\/soojin\/hubble\/ios-sdk-internal\/Hubble\/Domain\/Entity\/Survey.swift",
       "kind": "StringLiteral",
-      "offset": 5722,
+      "offset": 5905,
       "length": 7,
       "value": "\"color\""
     },

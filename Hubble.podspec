@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Hubble"
-  spec.version      = "1.0.0"
+  spec.version      = "1.1.0"
   spec.summary      = "Hubble iOS SDK"
   spec.description  = <<-DESC
   Build better products with powerful insights. The only all-in-one software to maximize the power of continuous discovery for your product and UX team.
