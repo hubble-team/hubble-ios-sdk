@@ -14,7 +14,7 @@ You can use [The Swift Package Manager](https://swift.org/package-manager/) to i
 
 ```swift
 dependencies: [
-  .package(url: "https://github.com/hubble-team/ios.git", from: "1.0.0")
+  .package(url: "https://github.com/hubble-team/hubble-ios-sdk", from: "1.0.0")
 ],
 ```
 
