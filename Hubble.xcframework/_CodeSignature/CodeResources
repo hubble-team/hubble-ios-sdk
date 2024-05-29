@@ -10,15 +10,15 @@
 		</data>
 		<key>ios-arm64/Hubble.framework/Hubble</key>
 		<data>
-		7iX1/V/ESGlFRpJBKJOY1TfvmNo=
+		gVmJBGkswm5UXM90fkdIi1cqJv8=
 		</data>
 		<key>ios-arm64/Hubble.framework/Info.plist</key>
 		<data>
-		a9jWQ7d394yUyCBEL4qn/ui4DeE=
+		sGCICfLcAFGaDI9hzv1MdtcA4MI=
 		</data>
 		<key>ios-arm64/Hubble.framework/Modules/Hubble.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		d5VPl7LXl9BIyyrzbiVlcci50ik=
+		qW+huFXBzpx58gMdaSE7CTAadQ4=
 		</data>
 		<key>ios-arm64/Hubble.framework/Modules/Hubble.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>ios-arm64/Hubble.framework/_CodeSignature/CodeResources</key>
 		<data>
-		8tNUGF6EzW0tZOR/ETdo2Wc/y/E=
+		KysVbHgqpWWeXyEng3Fiz4smClM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Hubble.framework/Headers/Hubble.h</key>
 		<data>
@@ -46,15 +46,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Hubble.framework/Hubble</key>
 		<data>
-		3KUY3jvD8O3UNGWwup0gm218sqM=
+		BwnjgeaVHTqkQjUo4HeRcZ1btwg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Hubble.framework/Info.plist</key>
 		<data>
-		60sY1aoMz2U63gKZSGotCdJLgR0=
+		ESEDYg40eR+weqFF+lxbUDHJXnE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Hubble.framework/Modules/Hubble.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		d5VPl7LXl9BIyyrzbiVlcci50ik=
+		qW+huFXBzpx58gMdaSE7CTAadQ4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Hubble.framework/Modules/Hubble.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Hubble.framework/Modules/Hubble.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		d5VPl7LXl9BIyyrzbiVlcci50ik=
+		qW+huFXBzpx58gMdaSE7CTAadQ4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Hubble.framework/Modules/Hubble.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Hubble.framework/_CodeSignature/CodeResources</key>
 		<data>
-		tCfvhw4GyrkVKZnljvbbMM7k5rU=
+		yzsl9UgMjepehlMkfBasIOZgG1Y=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -110,33 +110,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7iX1/V/ESGlFRpJBKJOY1TfvmNo=
+			gVmJBGkswm5UXM90fkdIi1cqJv8=
 			</data>
 			<key>hash2</key>
 			<data>
-			3J/cGZTALnWxmuBlIMFUM+OMmGL/Kcbj28qcMwREo2I=
+			UmBJ/GHTC1IDpkvSg5vsPtyx0oTenV7JaAkRqfPs9zs=
 			</data>
 		</dict>
 		<key>ios-arm64/Hubble.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			a9jWQ7d394yUyCBEL4qn/ui4DeE=
+			sGCICfLcAFGaDI9hzv1MdtcA4MI=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZlgaDLGlNH9wuL43SPO/kEGjmfdkjgWZtibuGIE02GQ=
+			V1vE8zsquIurACDRj2N1im4FOxecoe16ztP7jYnVZEs=
 			</data>
 		</dict>
 		<key>ios-arm64/Hubble.framework/Modules/Hubble.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d5VPl7LXl9BIyyrzbiVlcci50ik=
+			qW+huFXBzpx58gMdaSE7CTAadQ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			aZ1UeO9D7mfxLQV7fkAiU6aZ7fSE9Mmi/iBK3+bw8KE=
+			4PxLYMLvafrCBbW6FOJR6QJRWnD6divjrgTi5JX8YDs=
 			</data>
 		</dict>
 		<key>ios-arm64/Hubble.framework/Modules/Hubble.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -187,11 +187,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8tNUGF6EzW0tZOR/ETdo2Wc/y/E=
+			KysVbHgqpWWeXyEng3Fiz4smClM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZZ6dJCnfLdbJikD3CxCFkZkNqqZRs/Qc7e6+GYXKFQY=
+			4AB3Az+ppSzT87WhcS1sv7ZIRkWvwX/6hrt0ILM9ViQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Hubble.framework/Headers/Hubble.h</key>
@@ -209,33 +209,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3KUY3jvD8O3UNGWwup0gm218sqM=
+			BwnjgeaVHTqkQjUo4HeRcZ1btwg=
 			</data>
 			<key>hash2</key>
 			<data>
-			hf698X2ocKrU+w3uyu6IK1FBWOubHIDGDWtgbBiVNkg=
+			AVK7Gl0EYVbzfhlkx6JJ/4otngenXq0UXmKLQ/Aom+I=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Hubble.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			60sY1aoMz2U63gKZSGotCdJLgR0=
+			ESEDYg40eR+weqFF+lxbUDHJXnE=
 			</data>
 			<key>hash2</key>
 			<data>
-			IZ0fYtTFGN73pfmqRQ9RYbtdYeyHqAldyGV2YVlfQ58=
+			AHeldq6kxoSQyeJUUtIEa++xeA1nvX7crisc7wdqViw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Hubble.framework/Modules/Hubble.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d5VPl7LXl9BIyyrzbiVlcci50ik=
+			qW+huFXBzpx58gMdaSE7CTAadQ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			aZ1UeO9D7mfxLQV7fkAiU6aZ7fSE9Mmi/iBK3+bw8KE=
+			4PxLYMLvafrCBbW6FOJR6QJRWnD6divjrgTi5JX8YDs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Hubble.framework/Modules/Hubble.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -275,11 +275,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d5VPl7LXl9BIyyrzbiVlcci50ik=
+			qW+huFXBzpx58gMdaSE7CTAadQ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			aZ1UeO9D7mfxLQV7fkAiU6aZ7fSE9Mmi/iBK3+bw8KE=
+			4PxLYMLvafrCBbW6FOJR6QJRWnD6divjrgTi5JX8YDs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Hubble.framework/Modules/Hubble.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -330,11 +330,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tCfvhw4GyrkVKZnljvbbMM7k5rU=
+			yzsl9UgMjepehlMkfBasIOZgG1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gm/UGntJ4PfiC8A1188zUFwz1g9VobRv7l7YQWdi8Po=
+			FcQ4F5TxW88X/Ekg4qKWP8OewvSqcuE5iJQJEUDwnuk=
 			</data>
 		</dict>
 	</dict>

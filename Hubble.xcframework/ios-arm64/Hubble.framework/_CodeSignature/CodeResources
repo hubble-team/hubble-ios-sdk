@@ -10,11 +10,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		a9jWQ7d394yUyCBEL4qn/ui4DeE=
+		sGCICfLcAFGaDI9hzv1MdtcA4MI=
 		</data>
 		<key>Modules/Hubble.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		d5VPl7LXl9BIyyrzbiVlcci50ik=
+		qW+huFXBzpx58gMdaSE7CTAadQ4=
 		</data>
 		<key>Modules/Hubble.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/Hubble.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		0V2LDflwfhROaCM1/WS2tW/nhP0=
+		lpF1Xd3azdIaJ4d/RbEL0cECByw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,7 +50,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aZ1UeO9D7mfxLQV7fkAiU6aZ7fSE9Mmi/iBK3+bw8KE=
+			4PxLYMLvafrCBbW6FOJR6QJRWnD6divjrgTi5JX8YDs=
 			</data>
 		</dict>
 		<key>Modules/Hubble.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -78,7 +78,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z68j0Xe6uK3UPzsfjVXdRnKqM4zYkyFMwGLCFzZHoPE=
+			jdKAqvev9SHnokiC7ASHcjhjrKpr6/aObnqmCwJF240=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
